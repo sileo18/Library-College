@@ -12,3 +12,4 @@ C:\Faculdade\Algortimos2\PTI\obj\Debug\net8.0\refint\PTI.dll
 C:\Faculdade\Algortimos2\PTI\obj\Debug\net8.0\PTI.pdb
 C:\Faculdade\Algortimos2\PTI\obj\Debug\net8.0\PTI.genruntimeconfig.cache
 C:\Faculdade\Algortimos2\PTI\obj\Debug\net8.0\ref\PTI.dll
+C:\Faculdade\Algortimos2\PTI\obj\Debug\net8.0\PTI.sourcelink.json
