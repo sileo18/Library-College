@@ -1,29 +1,25 @@
-# Sistema de Biblioteca Simples
+(**EM ANDAMENTO**)
+API de Agendamento de Serviços
+Esta API .NET fornece uma solução para gerenciar o agendamento de serviços entre clientes e profissionais. Desenvolvida para facilitar a marcação de compromissos, a API é simples e eficiente.
 
-Este é um sistema console de biblioteca desenvolvido como parte de um projeto acadêmico, utilizando C#. O objetivo deste sistema é gerenciar livros de forma simples e eficiente.
+📖 Descrição
+A API de Agendamento de Serviços é uma aplicação .NET que permite:
 
-[![Vídeo de Demonstração](https://img.youtube.com/vi/VFLBaBUsaDY/maxresdefault.jpg)](https://youtu.be/VFLBaBUsaDY)
+Gerenciar Usuários: Adicionar, validar, atualizar e excluir.
+Gerenciar Profissionais: Adicionar, listar e visualizar profissionais e os serviços que oferecem.
+Gerenciar Serviços: Adicionar, listar e visualizar serviços disponíveis para agendamento.
+Gerenciar Compromissos: Agendar, listar e cancelar compromissos entre clientes e profissionais.
 
-## 📖 Descrição
+🚀 Recursos
+Adicionar Profissionais: Cadastre novos profissionais com informações sobre os serviços que oferecem.
+Adicionar Serviços: Inclua novos serviços disponíveis para agendamento.
+Agendar Compromissos: Permita que clientes agendem compromissos com profissionais para serviços específicos.
+Listar Compromissos: Visualize todos os compromissos agendados.
+Cancelar Compromissos: Cancele compromissos existentes conforme necessário.
 
-O Sistema de Biblioteca Simples é uma aplicação de console em C# que permite aos usuários:
+🤝 Contribuição
+Para contribuir com o projeto:
 
-- **Gerenciar Livros:** Adicionar, remover e listar livros.
-- **Buscar Livros:** Procurar livros por título ou autor.
-- **Entrada e Saída de Estoque:** Adicionar e remover livros do estoque.
-
-## 🚀 Recursos
-
-- **Adicionar Livros:** Insira novos livros com título, autor e data de publicação.
-- **Remover Livros:** Exclua livros do sistema.
-- **Listar Livros:** Visualize todos os livros registrados.
-- **Buscar Livros:** Encontre livros por título ou autor.
-
-## 🛠️ Instalação
-
-Para rodar este sistema em sua máquina, siga os passos abaixo:
-
-1. **Clone o Repositório:**
-
-   ```bash
-   git clone https://github.com/seu-usuario/biblioteca-simples.git
+Faça um fork do repositório.
+Crie uma branch para suas alterações.
+Faça commit e envie um pull request.
